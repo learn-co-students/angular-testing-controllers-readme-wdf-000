@@ -1,5 +1,6 @@
 function MainController() {
-    this.name = 'Bill Gates';
+				var vm = this;
+    vm.name = 'Steve Jobs';
 }
 
 angular
